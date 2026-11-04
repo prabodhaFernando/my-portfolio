@@ -6,7 +6,7 @@ This is the front page of my portfolio. Each project has its own repository.
 
 ## Projects
 
-### 1. Business Analysis Case Study (coming soon)
+### 1. [Business Analysis Case Study](https://github.com/prabodhaFernando/business-analysis-case-study)
 Requirements, user stories, process flow and wireframes for a fictional retail shop.
 Skills: requirements gathering, BRD writing, user stories, process modelling
 
